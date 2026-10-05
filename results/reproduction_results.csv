@@ -1,0 +1,7 @@
+run,seed,task,n_classes,best_val_auroc,test_auroc_bestval,test_auroc_finalep,bootstrap_mean,ci_lower,ci_upper,target,difference_pct,checkpoint_rule,script_version,notes
+1,10,all,71,0.9294,0.9097,0.9107,0.9106,0.9008,0.9218,0.919,-0.83,val-based,V7_source_audited_v101,seed=10
+1,10,rhythm,12,0.9573,0.9340,0.9337,0.9343,0.9162,0.9473,0.946,-1.59,val-based,V7_source_audited_v101,seed=10
+2,20,all,71,0.9304,0.9172,0.9142,0.9142,0.9043,0.9229,0.919,-0.48,val-based,V7_source_audited_v101,seed=20
+2,20,rhythm,12,0.9579,0.9324,0.9319,0.9317,0.9138,0.9464,0.946,-1.41,val-based,V7_source_audited_v101,seed=20
+3,30,all,71,0.9256,0.9204,0.9191,0.9185,0.9110,0.9268,0.919,+0.01,val-based,V7_source_audited_v101,seed=30
+3,30,rhythm,12,0.9564,0.9265,0.9292,0.9289,0.9135,0.9444,0.946,-1.68,val-based,V7_source_audited_v101,seed=30

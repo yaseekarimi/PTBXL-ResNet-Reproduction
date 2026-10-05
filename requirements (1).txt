@@ -1,0 +1,14 @@
+# ResNet1d_wang — PTB-XL Reproduction
+# Phase 0 M2 — Strodthoff et al. (2021)
+# Environment: Python 3.11.9 | CUDA 12.1 | Windows 11
+# Generated: October 2026
+
+torch==2.5.1+cu121
+numpy==1.26.4
+scikit-learn==1.8.0
+wfdb==4.3.1
+pandas==2.2.3
+scipy==1.17.1
+matplotlib==3.10.9
+tqdm==4.67.3
+wandb==0.27.0

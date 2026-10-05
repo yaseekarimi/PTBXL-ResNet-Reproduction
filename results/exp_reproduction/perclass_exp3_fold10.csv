@@ -1,0 +1,13 @@
+class,auroc,positive_count_fold10,note
+AFIB,0.9861,152,
+AFLT,0.9672,7,< 20 positives
+BIGU,0.7952,8,< 20 positives
+PACE,0.9523,29,
+PSVT,0.9995,2,< 20 positives
+SARRH,0.7265,77,
+SBRAD,0.9362,64,
+SR,0.8754,1678,
+STACH,0.9918,82,
+SVARR,0.9508,14,< 20 positives
+SVTAC,0.9790,3,< 20 positives
+TRIGU,0.9581,2,< 20 positives
